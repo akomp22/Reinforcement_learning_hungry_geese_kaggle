@@ -1,6 +1,6 @@
 # Reinforcement learning
 
-Implementation of reinforcement learning algorithms for the hungry geese (snake) game in the Kaggle competition. Two approaches are used:
+Implementation of reinforcement learning algorithms for the hungry geese (snake) game in the [Kaggle competition](https://www.kaggle.com/competitions/hungry-geese). Two approaches are used:
 
 1. Q learning with prioritized experience replay (efficient implementation through a segment tree).
 2. Actor critic approach.
