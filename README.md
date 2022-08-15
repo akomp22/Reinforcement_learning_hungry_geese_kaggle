@@ -9,7 +9,7 @@ In both cases, the inception CNN with was used as a function approximator.
 
 
 
-# Example of run in the Kaggle competition with other competitors. Green geese is trained with the presented code 
+#### Example of run in the Kaggle competition with other competitors. Green geese is trained with the presented code 
 https://user-images.githubusercontent.com/67578288/184651827-25e32d7f-4222-4774-9ce6-7b7b2c0bf1b6.mp4
 
 
