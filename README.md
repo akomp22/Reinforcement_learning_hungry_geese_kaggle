@@ -1,4 +1,4 @@
 # Reinforcment_learning_hungry_geese_kagglr
-Q network for pong
 
-![alt text](https://github.com/akomp22/rl_pong/blob/main/ezgif.com-gif-maker.gif)
+
+![alt text](https://github.com/akomp22/Reinforcment_learning_hungry_geese_kaggle/blob/main/Q.mp4)
