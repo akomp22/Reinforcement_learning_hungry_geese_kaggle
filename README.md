@@ -1,4 +1,4 @@
-# Reinforcment_learning_hungry_geese_kagglr
+# Reinforcment learning
 
 Implementation of reinforcement learning algorithms for the hungry geese (snake) game in the Kaggle competition. Two approaches are used:
 
